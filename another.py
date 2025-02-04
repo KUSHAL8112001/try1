@@ -9,6 +9,8 @@ machine_hold = {"espresso":{"water":100,"milk":100,"coffee":50},"price":50,
                 "lattee":{"water":100,"milk":150,"coffee":30},"price":90
                 }
 
+
+
 def reports(res):
     Water=res["water"]
     Milk=res["milk"]
